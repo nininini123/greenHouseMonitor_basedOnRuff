@@ -1,0 +1,21 @@
+{
+    "sessions": {
+        "ruffd/lan/3044a1001126": {
+            "board": "ruff-mbd-v1",
+            "name": "nininini",
+            "sn": "R0102195",
+            "mac": "30:44:a1:00:11:26",
+            "address": "192.168.1.129",
+            "token": "6eaa3b1a0677380fb5ee4568bc36b3cc"
+        },
+        "ruffd/lan/3044a1000cd8": {
+            "board": "ruff-mbd-v1",
+            "name": "nininini",
+            "sn": "R0101644",
+            "mac": "30:44:a1:00:0c:d8",
+            "address": "192.168.1.206",
+            "token": "6eaa3b1a0677380fb5ee4568bc36b3cc"
+        }
+    },
+    "active": "ruffd/lan/3044a1001126"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "ruff2",
+    "version": "1.7.2",
+    "description": "",
+    "author": "",
+    "main": "src/index.js",
+    "ruff": {
+        "boards": {
+            "ruff-mbd-v1": "^4.2.2",
+            "*": "*"
+        },
+        "dependencies": {
+            "button-gpio": "^2.0.6",
+            "dht11": "^0.3.6",
+            "lcd1602-pcf8574a-hd44780": "^0.2.7",
+            "sound-01": "^1.1.6",
+            "gy-30": "^3.0.6"
+        }
+    }
+}

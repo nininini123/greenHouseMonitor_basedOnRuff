@@ -1,0 +1,18 @@
+{
+    "mapping": {
+        "button/vcc": "ruff-mbd-v1/vdd-0",
+        "button/gnd": "ruff-mbd-v1/gnd-0",
+        "button/gpio": "ruff-mbd-v1/gpio-11",
+        "TempAndHum/vcc": "ruff-mbd-v1/vdd-1",
+        "TempAndHum/gnd": null,
+        "LCD/vcc": "ruff-mbd-v1/vdd-8",
+        "LCD/gnd": "ruff-mbd-v1/gnd-0",
+        "LCD/i2c": "ruff-mbd-v1/i2c-0",
+        "soundSensor/vcc": "ruff-mbd-v1/vdd-0",
+        "soundSensor/gnd": "ruff-mbd-v1/gnd-0",
+        "soundSensor/gpio": "ruff-mbd-v1/gpio-12",
+        "lightSensor/vcc": "ruff-mbd-v1/vdd-0",
+        "lightSensor/gnd": "ruff-mbd-v1/gnd-0",
+        "lightSensor/i2c": "ruff-mbd-v1/i2c-0"
+    }
+}
